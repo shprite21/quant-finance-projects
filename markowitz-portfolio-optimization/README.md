@@ -115,12 +115,10 @@ yfinance
 
 ## Project Structure
 
-quant-projects
-│
-├── markowitz-portfolio-optimization
-│   ├── markowitz.ipynb
-│   ├── efficient_frontier.png
-│   └── README.md
+markowitz-portfolio-optimization
+    markowitz.ipynb
+    efficient_frontier.png
+    README.md
 
 ---
 
@@ -147,6 +145,5 @@ Bodie, Kane & Marcus — Investments
 ## Author
 
 Arnaav Raj
-
-BTech Information Science  
-Interested in quantitative finance, portfolio optimization, and financial engineering
+ 
+Information Science and financial engineering
