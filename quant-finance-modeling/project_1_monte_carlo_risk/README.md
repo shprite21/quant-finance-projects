@@ -74,16 +74,13 @@ The normal distribution underestimates extreme losses, leading to overly optimis
 
 ---
 
-## Possible Extensions
+## Baseline
+Normal distribution
+Constant volatility
 
-* Student-t distribution (fat tails)
-* GARCH-based volatility modeling
-* Stress testing scenarios
+## Upgraded
+Student-t (fat tails)
+Empirical validation
+Volatility clustering
 
----
-
-## Files
-
-```id="mcfiles"
-montecarlo.ipynb → main simulation
-```
+The upgraded model highlights how normal assumptions underestimate tail risk.
